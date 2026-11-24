@@ -11,4 +11,4 @@ for ($i = 1; $i <= 20; $i++) {
         echo "<p>$i</p>";
     }
 }
-echo "<h1>Úkol B</h1>";
+echo "<h1>Úkol C</h1>";
